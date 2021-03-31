@@ -26,4 +26,4 @@ I also fixed one anchor that wasnt working correctly.
 
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/79770408/113082369-54e8ac80-91a8-11eb-9c48-1da474463338.png)
 
-And it should remain with the same look at the end with full functionality.
+##And it should remain with the same look at the end with full functionality.
