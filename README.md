@@ -22,6 +22,6 @@ I used semantic html elements to make this website more accessible.
 By doing this it becomes more organized and easier to navigate & understand,
 I also fixed one anchor that wasnt working correctly. 
 
-The Horiseon marketing agency website looks like this:
-<img src:"./Assets/images/01-html-css-git-homework-demo.png" alt="Horiseon-website">
+## The Horiseon marketing agency website looks like this:
+<![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/01-html-css-git-homework-demo.png)
 And it should remain with the same look at the end with full functionality.
