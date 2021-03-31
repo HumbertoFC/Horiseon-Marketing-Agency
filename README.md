@@ -23,5 +23,5 @@ By doing this it becomes more organized and easier to navigate & understand,
 I also fixed one anchor that wasnt working correctly. 
 
 The Horiseon marketing agency website looks like this:
-(./Assets/01-html-css-git-homework-demo.png) 
+(./Assets/images/01-html-css-git-homework-demo.png) 
 And it should remain with the same look at the end with full functionality.
