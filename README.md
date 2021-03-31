@@ -28,9 +28,3 @@ I also fixed one anchor that wasnt working correctly.
 
 ## And it should remain with the same look at the end with full functionality.
 Horiseon Marketing Agency, thank you for your trust!
-
-
-# uno 
-## dos
-### tres 
-#### cuatro
