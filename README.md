@@ -22,6 +22,9 @@ I used semantic html elements to make this website more accessible.
 By doing this it becomes more organized and easier to navigate & understand,
 I also fixed one anchor that wasnt working correctly. 
 
+Click the following link to visit The Horiseon marketing agency website:
+https://humbertofc.github.io/Horiseon-Marketing-Agency/
+
 ## The Horiseon marketing agency website looks like this:
 
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/79770408/113082369-54e8ac80-91a8-11eb-9c48-1da474463338.png)
